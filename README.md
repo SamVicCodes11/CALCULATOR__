@@ -34,7 +34,7 @@ Keyboard shortcuts for faster calculations
 
 
 ## 🚀 Live Demo  
-🔗 [Visit the Website](https://mini-quiz-app-eta.vercel.app/)
+🔗 [Visit the Website](https://calculator-rho-gules-96.vercel.app/)
 
 
 
